@@ -36,6 +36,7 @@
 	min-height:auto;
 	background-size:100%;
 	background-repeat:no-repeat;
+	font-family: 'IM Fell English', serif;
  }
  
  
@@ -49,6 +50,7 @@
 	min-height:auto;
 	background-size:100%;
 	background-repeat:no-repeat;
+	font-family: 'IM Fell English', serif;
  }
  
 #design{
@@ -199,7 +201,6 @@
 	width:50%;
 	height:auto;
 	font-size:18px;
-	font-family:Georgia;
 	color:indigo;
 	margin:20px;
 	padding:10px;
@@ -246,7 +247,7 @@ width:100%;
 	margin:2px;
 	color:#C70039;
 	text-align:center;
-	font-family:Georgia;
+	font-family: 'IM Fell English', serif;;
 }
 	
 #btn{
@@ -258,6 +259,7 @@ width:100%;
     text-align: center;
     text-decoration: none;
     font-size: 14px;
+	font-family: 'IM Fell English', serif;
 	
 }
 
@@ -272,6 +274,7 @@ width:100%;
     display: inline-block;
     font-size: 20px;
 	border-radius:5px;
+	font-family: 'IM Fell English', serif;
 
 }
 
@@ -283,7 +286,7 @@ width:100%;
 #p2{
 	color:purple;
 	font-size:15px;
-	font-family:Georgia;
+	font-family: 'IM Fell English', serif;
 }
 
 #request{
@@ -295,7 +298,7 @@ width:100%;
 	padding:15px;
 	border-radius:10px;
 	font-size:16px;
-	font-family:Georgia;
+	font-family:font-family: 'IM Fell English', serif;
 	background-color: white;
 
 }
@@ -306,6 +309,7 @@ width:320px;
 border-radius:5px;
 padding:10px;
 background-color:#F3E3E1;
+font-family: 'IM Fell English', serif;
 }
 
 #sel2{
@@ -316,6 +320,7 @@ padding:10px;
 border:2px grey solid;
 margin-top:0px;
 background-color:#F3E3E1;
+font-family: 'IM Fell English', serif;
 
 }
 
@@ -327,6 +332,7 @@ padding:10px;
 border:2px grey solid;
 margin-top:0px;
 background-color:#F3E3E1;
+font-family: 'IM Fell English', serif;
 
 }
 
@@ -334,7 +340,7 @@ background-color:#F3E3E1;
 	height:400px;
 	width:25%;
 	float:right;
-	font-family:Georgia;
+	font-family:font-family: 'IM Fell English', serif;
 	position:absolute;
 	top:300px;
 	
@@ -349,7 +355,7 @@ background-color:#F3E3E1;
 	width:350px;
 	height:300px;
 	text-align:center;
-	font-family:Georgia;
+	font-family:font-family: 'IM Fell English', serif;
 	font-size:12px;
 	font-weight:bold;
 	color:purple;
